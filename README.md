@@ -1,0 +1,1 @@
+Contributed to a group project developing a web application for an event planning system using Java web technologies and CSS. Implemented basic functionalities like insertion, modification, and deletion, and specifically developed the package management component.
